@@ -6,7 +6,7 @@ href=>Portfolio Analyst</a>
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Demonstrating SQL Techniques](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
+  - [Demonstrating Advanced SQL Skills](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
 
 <h2>📚Certifications:</h2>
 
